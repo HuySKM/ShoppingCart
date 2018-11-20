@@ -25,7 +25,7 @@ if (isset($_POST) && !empty($_POST)) {
 
                         if (isset($_SESSION['cart_item'][$product_id])) {
                             /**
-                             * Sảm phẩm đã tồn tại trong giỏ hàng
+                             * Sản phẩm đã tồn tại trong giỏ hàng
                              */
                             $exist_cart_item = $_SESSION['cart_item'][$product_id];
                             $exist_quantity = $exist_cart_item['quantity'];
