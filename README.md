@@ -1,2 +1,2 @@
-# ShoppingCart
-Chức năng giỏ hàng =))
+# simplephpcart
+Giỏ hàng đơn giản với PHP và MYSQL
