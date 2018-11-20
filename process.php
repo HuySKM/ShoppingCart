@@ -84,5 +84,5 @@ if (isset($_POST) && !empty($_POST)) {
 
 
 
-header("Location: http://localhost/simplephpcart/index.php");
+header("Location: http://localhost/shoppingcart/index.php");
 die();
